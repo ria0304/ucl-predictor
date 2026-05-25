@@ -59,3 +59,7 @@ more simulations.
 - Build a web UI for the 2025/26 season predictions
 - Integrate live odds comparison
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
